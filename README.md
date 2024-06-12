@@ -16,8 +16,8 @@ Este é um exemplo simples de um conversor de temperatura desenvolvido com Avalo
 
 1. **Clonar o Repositório**:
     ```sh
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-    cd nome-do-repositorio
+    git clone https://github.com/GarciaGGOO/Primeiros-passos-Avalonia.git
+    cd Primeiros-passos-Avalonia
     ```
 
 2. **Restaurar os Pacotes**:
